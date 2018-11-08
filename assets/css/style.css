@@ -1,0 +1,84 @@
+#name{
+    float: left;
+    background: #4aaaa5;
+    width:100%;
+    height:113px;
+    font-size: 45px;
+    text-align: center;
+    padding: 20px;
+    bottom:0px;
+    margin:0px 0px 0px 0px;
+    color:#ffffff;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#links{
+    font-size: 20px;
+    padding-top: 30px;
+    
+}
+li a{
+    color:#777777;
+    border-right: 1px solid #efefef;
+}
+hr{
+    color: #dddddd;
+    height: 3px;
+    background: #dddddd;
+    border: none;
+    margin-top: 0px;
+}
+img{
+    height:200px;
+    width:200px;
+    margin-right: 20px;
+}
+p{
+    font-size: 20px;
+    line-height: 40px;
+}
+h1{
+    color: #4aaaa5;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+body{
+    background:url(../images/gravel.png);
+    font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+    color: #777777;
+}
+footer{
+    background: #666666;
+    color: #ccc;
+    height:60px;
+    position: fixed;
+    text-align:center;
+    padding: 20px 0;
+    border-top: 6px solid #4aaaa5;
+    width: 100%;
+    bottom: 0px;
+    left:0px;
+
+}
+.image{
+    overflow:auto;
+    position: relative;
+    margin-left: 30px;
+    margin-bottom: 20px;
+
+}
+.image img{
+    width:90%;
+    height: 160px;
+    border:0 none;
+    opacity: 0.8;
+}
+.image h3{
+    position: absolute;
+    color: #ffffff;
+    background: #4aaaa5;
+    width:90%;
+    padding: 7px;
+    text-align: center;
+    bottom: 2px;
+    margin-left: 0px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
