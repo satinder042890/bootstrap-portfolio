@@ -63,7 +63,7 @@ footer{
 .image{
     overflow:auto;
     position: relative;
-    margin-left: 30px;
+    margin-left: 2%;
     margin-bottom: 20px;
 
 }
@@ -83,4 +83,10 @@ footer{
     bottom: 2px;
     margin-left: 0px;
     font-family: Georgia, 'Times New Roman', Times, serif;
+}
+a {
+    text-align: center;
+    text-decoration: none;
+    color: #ffffff;
+
 }
